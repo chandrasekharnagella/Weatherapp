@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+
+.weather {
+  max-width: 40%;
+  padding: 70px;
+  height: 40vh;
+  border: 1px solid gray;
+}
+
+input[type="submit"] {
+  background-color: lightblue;
+  border-radius: 3px;
+  padding: 6px;
+  cursor: pointer;
+}
+
+input[type="text"] {
+  width: 30%;
+  border-radius: 3px;
+  padding: 6px;
+}
